@@ -1,0 +1,24 @@
+{
+  "name": "pt",
+  "version": "1.0.0",
+  "description": "uhhyeah",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hhtps://github.com/thapapt/IAT.git"
+  },
+  "author": "Pradip Thapa",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "status": "0.0.13"
+  }
+}
